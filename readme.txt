@@ -1,5 +1,5 @@
 We are going to predict house prices of banglore dataset.
-## Credits :octocat:
+*Credits* :octocat:
 ![](http://i.imgur.com/OUkLi.gif)
 - Codebasics(Dhaval Patel)
 - Sachin Mishra
